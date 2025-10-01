@@ -1,2 +1,2 @@
 # book2
-book(https://github.com/mokoki77/book2/blob/main/before1.png)
+book(https://github.com/mokoki77/book2/row/main/before1.png)
